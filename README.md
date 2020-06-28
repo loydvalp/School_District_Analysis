@@ -37,10 +37,6 @@ Analysis was performed to determined the top 5 and bottom 5 performong schools, 
 
 ![](Images/bottom_5.PNG)
 
-Schools were sorted out by school types and sizes.  
-
-![](Images/all_schools.PNG)
-
 Sorted out the school spending per student into four spending bins.  Ranging form the lowest $578 to the highest amoutn of $655.  After the schools were sorted, an analysis was performed to see how does the school spending per students affect the averages and passing percentages. Here is a list below of all schools.
 
 ![](Images/spending_ranges_py.PNG)
@@ -48,6 +44,7 @@ Sorted out the school spending per student into four spending bins.  Ranging for
 Schools that were smaller in size had the highest passing averages. 
 
 ![](Images/school_size.PNG)
+![](Images/school_type_py.PNG)
 
 
 
@@ -76,3 +73,8 @@ Here is an overview of the school district analysis after ninth grade math and r
 The numbers of students didn't not change in the 15 schools in the district.  After the correction, 28,939 students passed math instead of 29,370.  33,158 students had a passing score in reading of instead of 33,610 . The percentage of passing decreased by roughly 1% for the math and reading scores. The average math score and average reading score of the district was 79 and 82. respectively.   Because of changes, Thomas high school is no longer in the top 5 schools of passing scores.  
 
 ![](Images/top_5_challenge.PNG)
+
+
+![](Images/spending_ranges.PNG)
+![](Images/school_size_challenge.PNG)
+![](Images/school_type.PNG)
