@@ -60,7 +60,7 @@ After reviewing information, Maria's supervisor discovered the math and reading 
           b. How is the school summary affected?
           c. How does removing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
           d. How does removing the ninth grade scores affect the following -
-                    - Math and Reading Scores by Grade -
+                    - Math and Reading Scores by Grade 
                     - Scores by School Spending 
                     - Scores by School Size 
                     - Scores by School Type
@@ -72,8 +72,16 @@ Here is an overview of the school district analysis after ninth grade math and r
 ![](Images/overall_challenge.PNG)
 
 The number of students didn't change in the 15 schools in the district. After the correction, 28,939 students passed math instead of 29,370. 33,158 students had a passing score in reading instead of 33,610. The percentage of passing decreased by roughly 1% for the math and reading scores. The average math score and average reading scores of the district were 79 and 82. respectively. Because of changes, Thomas high school is no longer in the top 5 schools of passing scores. 
+
 ![](Images/top_5_challenge.PNG)
 
+Math by Grade
+![](Images/challenge_math_by_grade.PNG)
+
+Reading by Grade
+![](Images/challenge_by_grade.PNG)
+
+Ninth grades of Thomas High school was the only grade that was changed.  The percentage of ninth grade 
 
 ![](Images/spending_ranges.PNG)
 ![](Images/school_size_challenge.PNG)
