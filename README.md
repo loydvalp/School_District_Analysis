@@ -75,14 +75,20 @@ The number of students didn't change in the 15 schools in the district. After th
 
 ![](Images/top_5_challenge.PNG)
 
+Below are snapshots of the missing data from the ninth graders in Thomas High School. By looking at the charts about in the project summary and also this summary, the only grades that were affected were the ninth grades of Thomas High school. The other school scores and percentages stated the same. See charts below:
+
 Math by Grade
+
 ![](Images/challenge_math_by_grade.PNG)
 
 Reading by Grade
+
 ![](Images/challenge_by_grade.PNG)
 
-Ninth grades of Thomas High school was the only grade that was changed.  The percentage of ninth grade 
+Since all other data was kept beside the math and science scores, the size of the school didn't change nor did the spending. 
 
 ![](Images/spending_ranges.PNG)
+
+The charter schools' averages did drop due to the changes. 
 ![](Images/school_size_challenge.PNG)
 ![](Images/school_type.PNG)
