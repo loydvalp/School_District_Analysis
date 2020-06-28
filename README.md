@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Maria, chief data scientist, has given the task to analyze all standardized test for various school districts.  The following deliverables for the analysis are:
+Maria, the chief data scientist, has given the task to analyze all standardized tests for various school districts. The following deliverables for the analysis are:
 
 1.  Create a table for a high-level snapshot of the district's key metrics.
 2.  Create a table with an overview of the key metrics for each school.
@@ -25,19 +25,19 @@ Here is an overview of the school district analysis.
 
 ![](Images/district_summary.PNG)
 
-There is 39,170 numbers of students in 15 different schools in the district. The total budget of the schools in the district is $24,649,428.  29,370 students had a passing score in math.  33,610 students had a passing score in reading. There 75% of students passed the math standardized test, 86% passed the reading standardized test.  The average math score and average reading score of the district was 79 and 82. respectively.   Below is a snap shot of the math and reading scores per grade represented by the schools in alphabetical order. 
+There are 39,170 numbers of students in 15 different schools in the district. The total budget of the schools in the district is $24,649,428. 29,370 students had a passing score in math. 33,610 students had a passing score in reading. There 75% of students passed the math standardized test, 86% passed the reading standardized test. The average math score and average reading scores of the district were 79 and 82. respectively. Below are snapshots of the math and reading scores per grade represented by schools in alphabetical order.
 
 ![](Images/math_scores_by_grade.PNG)
 
 ![](Images/reading_scores_by_grade.PNG)
 
-Analysis was performed to determined the top 5 and bottom 5 performong schools, based on the overall passing rate.  See charts below. 
+The analysis was performed to determine the top 5 and bottom 5 performing schools, based on the overall passing rate. See the charts below. 
 
 ![](Images/top_5.PNG)
 
 ![](Images/bottom_5.PNG)
 
-Sorted out the school spending per student into four spending bins.  Ranging form the lowest $578 to the highest amoutn of $655.  After the schools were sorted, an analysis was performed to see how does the school spending per students affect the averages and passing percentages. Here is a list below of all schools.
+Sorted out the school spending per student into four spending bins. Ranging from the lowest $578 to the highest amount of $655. After the schools were sorted, an analysis was performed to see how does the school spending per student affect the averages and passing percentages. Here is a list below of all schools.
 
 ![](Images/spending_ranges_py.PNG)
 
@@ -49,7 +49,8 @@ Schools that were smaller in size had the highest passing averages.
 
 
 ## Challenge Overview
-After reviewing information, Maria's supervisor discovered the score averages for ninth graders form on high school were incorrect.   The following tasks for the anaylsis are:
+
+After reviewing information, Maria's supervisor discovered the math and reading scores for ninth graders from a high school were incorrect. The following tasks for the analysis are:
 
 1.  Replace the ninth-grade math and reading scores from Thomas High School.
 2.  Keep all other data associated with the ninth-grade students and Thomas High School intact.
@@ -70,8 +71,7 @@ Here is an overview of the school district analysis after ninth grade math and r
   
 ![](Images/overall_challenge.PNG)
 
-The numbers of students didn't not change in the 15 schools in the district.  After the correction, 28,939 students passed math instead of 29,370.  33,158 students had a passing score in reading of instead of 33,610 . The percentage of passing decreased by roughly 1% for the math and reading scores. The average math score and average reading score of the district was 79 and 82. respectively.   Because of changes, Thomas high school is no longer in the top 5 schools of passing scores.  
-
+The number of students didn't change in the 15 schools in the district. After the correction, 28,939 students passed math instead of 29,370. 33,158 students had a passing score in reading instead of 33,610. The percentage of passing decreased by roughly 1% for the math and reading scores. The average math score and average reading scores of the district were 79 and 82. respectively. Because of changes, Thomas high school is no longer in the top 5 schools of passing scores. 
 ![](Images/top_5_challenge.PNG)
 
 
