@@ -21,8 +21,33 @@ Maria, chief data scientist, has given the task to analyze all standardized test
 
 ## Summary
 
-There is 39,170 numbers of students in 15 different schools in the district. The total budget of the schools in the district is $24,649,428.  29,370 students had a passing score in math.  33,610 students had a passing score in reading. There 75% of students passed the math standardized test, 86% passed the reading standardized test.  The average math score and average reading score of the district was 79 and 81. respectively.   Sorted out the school spending per student into four spending bins.  Ranging form the lowest $578 to the highest amoutn of $655.  After the schools were sorted, an analysis was performed to see how does the school spending per students affect the averages and passing percentages. 
+Here is an overview of the school district analysis.
 
+![](Images/district_summary.PNG)
+
+There is 39,170 numbers of students in 15 different schools in the district. The total budget of the schools in the district is $24,649,428.  29,370 students had a passing score in math.  33,610 students had a passing score in reading. There 75% of students passed the math standardized test, 86% passed the reading standardized test.  The average math score and average reading score of the district was 79 and 81. respectively.   Below is a snap shot of the math and reading scores per grade represented by the schools in alphabetical order. 
+
+![](Images/math_scores_by_grade.PNG)
+
+![](Images/reading_scores_by_grade.PNG)
+
+Analysis was performed to determined the top 5 and bottom 5 performong schools, based on the overall passing rate.  See charts below. 
+
+![](Images/top_5.PNG)
+
+![](Images/bottom_5.PNG)
+
+Schools were sorted out by school types and sizes.  
+
+![](Images/all_schools.PNG)
+
+Sorted out the school spending per student into four spending bins.  Ranging form the lowest $578 to the highest amoutn of $655.  After the schools were sorted, an analysis was performed to see how does the school spending per students affect the averages and passing percentages. Here is a list below of all schools.
+
+![](Images/spending_ranges.PNG)
+
+Schools that were smaller in size had the highest passing averages. 
+
+![](Images/school_size.PNG)
 
 
 
