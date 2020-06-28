@@ -23,6 +23,8 @@ Maria, chief data scientist, has given the task to analyze all standardized test
 The analysis of show that:
 
 
+
+
 ## Challenge Overview
 After reviewing information, Maria's supervisor discovered the score averages for ninth graders form on high school were incorrect.  The following tasks for the anaylsis are:
 
