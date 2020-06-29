@@ -27,8 +27,10 @@ Here is an overview of the school district analysis.
 
 There are 39,170 numbers of students in 15 different schools in the district. The total budget of the schools in the district is $24,649,428. 29,370 students had a passing score in math. 33,610 students had a passing score in reading. There 75% of students passed the math standardized test, 86% passed the reading standardized test. The average math score and average reading scores of the district were 79 and 82. respectively. Below are snapshots of the math and reading scores per grade represented by schools in alphabetical order.
 
+Math Scores by Grade
 ![](Images/math_scores_by_grade.PNG)
 
+Reading Socres by Grade
 ![](Images/reading_scores_by_grade.PNG)
 
 The analysis was performed to determine the top 5 and bottom 5 performing schools, based on the overall passing rate. See the charts below. 
@@ -77,11 +79,11 @@ The number of students didn't change in the 15 schools in the district. After th
 
 Below are snapshots of the missing data from the ninth graders in Thomas High School. By looking at the charts in this summary, the only grades that were affected were the ninth grades of Thomas High school. The other school scores and percentages stayed the same. See charts below:
 
-Math by Grade
+Math Scores by Grade
 
 ![](Images/challenge_math_by_grade.PNG)
 
-Reading by Grade
+Reading Socres by Grade
 
 ![](Images/challenge_by_grade.PNG)
 
