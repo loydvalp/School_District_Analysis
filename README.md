@@ -43,7 +43,7 @@ Sorted out the school spending per student into four spending bins. Ranging from
 
 Schools that were smaller in size had the highest passing averages. 
 
-![](Images/school_size.PNG)
+![](Images/school_size_py.PNG)
 ![](Images/school_type_py.PNG)
 
 
@@ -75,7 +75,7 @@ The number of students didn't change in the 15 schools in the district. After th
 
 ![](Images/top_5_challenge.PNG)
 
-Below are snapshots of the missing data from the ninth graders in Thomas High School. By looking at the charts about in the project summary and also this summary, the only grades that were affected were the ninth grades of Thomas High school. The other school scores and percentages stated the same. See charts below:
+Below are snapshots of the missing data from the ninth graders in Thomas High School. By looking at the charts in this summary, the only grades that were affected were the ninth grades of Thomas High school. The other school scores and percentages stayed the same. See charts below:
 
 Math by Grade
 
@@ -89,6 +89,6 @@ Since all other data was kept beside the math and science scores, the size of th
 
 ![](Images/spending_ranges.PNG)
 
-The charter schools' averages did drop due to the changes. 
+Even tho the ninth graders' scores of Thomas High School were replaced with NaN, it doesn't mean they didn't pass or fail the test. There were 460 students that were affected out of 39,170. That is roughly 1.2% percentage. Due to the percentage being so small, there weren't any drastic changes in the averages and percentages. However, Thomas High School is no longer in the top 5 anymore.  The changes didn't make the school bottom 5 either. The school size is still a medium-sized school.  The number of students didn't change.  However, the percentages did decrease in the medium-sized school.   The charter schools' averages did drop due to the changes. 
 ![](Images/school_size_challenge.PNG)
 ![](Images/school_type.PNG)
